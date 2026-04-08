@@ -11,9 +11,8 @@
 **TEAM HOT6**
 
 [![API](https://img.shields.io/badge/API-Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)](#)
-[![Docs](https://img.shields.io/badge/Docs-Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-HOT6-181717?style=for-the-badge\&logo=github\&logoColor=white)](#)
-
+[![Docs](https://img.shields.io/badge/Docs-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6team-Plus-project-sparta/docs)
+[![GitHub](https://img.shields.io/badge/Repository-Ticket_JAVARA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6team-Plus-project-sparta/Ticket_JAVARA)
 </div>
 
 ---

@@ -559,7 +559,7 @@ GitHub Actions
 ### 설계 및 아키텍처
 
 * [시스템 아키텍처](./docs/design/architecture/README.md) — 전체 구조, 예매 플로우, 락 전략 정리
-* [데이터베이스 설계](./docs/design/database/README.md) — ERD 및 핵심 테이블 구조
+* [데이터베이스 설계]([./docs/design/database/README.md](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/5.%20erd.md)) — ERD 및 핵심 테이블 구조
 * [API 설계](./docs/design/api/README.md) — 도메인별 API 명세 정리
 * [동시성 제어 설계서](./docs/design/concurrency/README.md) — 좌석 / 쿠폰 동시성 시나리오 및 테스트 전략
 

@@ -59,10 +59,12 @@
 
 ### 문서
 
-* [프로젝트 개요서](./docs/requirements/project-overview.md)
-* [페르소나 & 사용자 시나리오](./docs/requirements/persona-scenarios.md)
-* [API 명세서](./docs/design/api/README.md)
-* [ERD](./docs/design/database/README.md)
+### 요구사항 및 기획
+
+* [프로젝트 개요서](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/1.%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94%EC%84%9C.md)  
+* [사용자 시나리오](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/2.%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)  
+* [유스케이스 명세서](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/3.%20%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EB%AA%85%EC%84%B8%EC%84%9C.md)  
+* [기능 명세서](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/4.%20%EA%B8%B0%EB%8A%A5%20%EB%AA%85%EC%84%B8%EC%84%9C.md)  
 
 ---
 
@@ -548,9 +550,10 @@ GitHub Actions
 
 ### 요구사항 및 기획
 
-* [프로젝트 개요서](./docs/requirements/project-overview.md) — 서비스 목적, 핵심 비즈니스 로직, 구현 범위 정리
-* [페르소나 & 사용자 시나리오](./docs/requirements/persona-scenarios.md) — 왜 이 기능이 필요한지 사용자 관점으로 설명
-* [기능 명세서](./docs/requirements/feature-specification.md) — 정상/예외 흐름을 포함한 기능 상세 정리
+* [프로젝트 개요서](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/1.%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94%EC%84%9C.md) - 서비스 목적, 핵심 문제 정의, 시스템 설계 방향 정리
+* [사용자 시나리오](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/2.%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md) - 페르소나 기반 사용자 흐름 및 기능 필요성 정의
+* [유스케이스 명세서](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/3.%20%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EB%AA%85%EC%84%B8%EC%84%9C.md) - 기능별 정상/예외 흐름 및 시스템 동작 정의
+*  [기능 명세서](https://github.com/6team-Plus-project-sparta/docs/blob/main/v2/4.%20%EA%B8%B0%EB%8A%A5%20%EB%AA%85%EC%84%B8%EC%84%9C.md) - API 및 기능 단위 상세 스펙 정의
 
 ### 설계 및 아키텍처
 

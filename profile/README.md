@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="150" alt="image-Photoroom (3)" src="https://github.com/user-attachments/assets/2d48bec2-a27d-4488-8382-0c5543adb7fa" />
+
 # 티켓을 JAVA라
 
 ### 대규모 트래픽에서도 공정한 예매를 보장하는 티켓팅 플랫폼

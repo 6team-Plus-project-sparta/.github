@@ -31,6 +31,7 @@
 * [대표 문서](#대표-문서)
 * [향후 업데이트 계획](#향후-업데이트-계획)
 * [라이선스 및 문의](#라이선스-및-문의)
+* [발표자료 링크](#발표자료-링크)
 
 ---
 
@@ -610,6 +611,12 @@ Copyright (c) 2026 HOT6 Team. All Rights Reserved.
 * **GitHub**: HOT6 Organization
 * **Docs**: 프로젝트 문서 레포 연결 예정
 * **API Docs**: Swagger 연결 예정
+
+---
+
+## 발표자료 링크
+
+* https://docs.google.com/presentation/d/1FHsPS6xYGUyI9YNYjV2WkfYlfAWSYclnF2AuLeoOBxg/edit
 
 ---
 
